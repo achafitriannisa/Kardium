@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">KARDIUM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_history">History</string>
+    <string name="action_account">Account</string>
+    <string name="action_record">Add Record</string>
+    <string name="action_share">Share</string>
+    <string name="enter_firstName">Enter first name</string>
+    <string name="enter_lastName">Enter last name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_dob">Enter date of birth</string>
+    <string name="update">Update</string>
+    <string name="view_mode">View mode</string>
+    <string name="leadII">SINGLE LEAD</string>
+    <string name="lead12">12 LEAD</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="scan">SCAN</string>
+    <string name="tap">Tap device to connect</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter e-mail</string>
+    <string name="pass">Enter password</string>
+    <string name="logout">Log out</string>
+    <string name="existing">Existing files</string>
+    <string name="uploaded">Uploaded files</string>
+    <string name="doctor">Enter your doctor\'s ID</string>
+    <string name="or">or</string>
+    <string name="records">Records uploaded:</string>
+</resources>
